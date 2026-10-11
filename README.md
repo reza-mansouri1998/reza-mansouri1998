@@ -1,7 +1,6 @@
 <div align="center">
 
   <!-- Replace the src URL below with your actual banner image link -->
-  <img src="https://via.placeholder.com/800x250/1a202c/ffffff?text=Mansour+Kalagar%0A%0ASenior+Software+Engineer+%7C+Solution+Architect+%7C+Consultant" alt="Profile Banner" width="100%">
 
   <br />
   <br />
@@ -12,8 +11,8 @@
   <br />
 
   <!-- Info Badges -->
-  <img src="https://img.shields.io/badge/LOCATION-MUNICH,_GERMANY-22272e?style=for-the-badge&labelColor=444c56&logo=google-maps" alt="Location" />
-  <img src="https://img.shields.io/badge/ROLE-SENIOR_ENGINEER-273b5e?style=for-the-badge&labelColor=444c56&logo=code" alt="Role" />
+  <img src="https://img.shields.io/badge/LOCATION-Naples,_Italy-22272e?style=for-the-badge&labelColor=444c56&logo=google-maps" alt="Location" />
+  <img src="https://img.shields.io/badge/Data ScientistR-273b5e?style=for-the-badge&labelColor=444c56&logo=code" alt="Role" />
   <img src="https://img.shields.io/badge/FOCUS-COMPOSABLE_COMMERCE-22272e?style=for-the-badge&labelColor=444c56&logo=target" alt="Focus" />
   
   <br />
